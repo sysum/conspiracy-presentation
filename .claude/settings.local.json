@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(npx:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "WebFetch(domain:www.reddit.com)",
+      "WebFetch(domain:www.huffpost.com)"
     ]
   }
 }

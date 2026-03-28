@@ -71,7 +71,7 @@ section.title-slide blockquote {
 <!-- _header: "" -->
 <!-- _class: lead title-slide -->
 
-# Before we begin
+# Before We Begin
 
 ### The questions this presentation will answer
 
@@ -88,15 +88,15 @@ section.title-slide blockquote {
 <!-- _header: "" -->
 <!-- _class: lead part-identity -->
 
-# Part I: The identity
+# Part I: The Identity
 
 **She has this name for a reason**
 
 ---
 
-<!-- header: "**The identity** > The husband > The evidence" -->
+<!-- header: "**The Identity** > The Husband > The Evidence" -->
 
-# Exhibit A: the name
+# Exhibit A: The Name
 
 In **November 1582**, a marriage bond was issued in Worcester, England, for one William Shakespeare and one **Anne Hathaway**.
 
@@ -112,15 +112,15 @@ They have confirmed publicly that they named her after Shakespeare's wife.
 <!-- _header: "" -->
 <!-- _class: lead part-husband -->
 
-# Part II: The husband
+# Part II: The Husband
 
 **He has been here before**
 
 ---
 
-<!-- header: "The identity > **The husband** > The evidence" -->
+<!-- header: "The Identity > **The Husband** > The Evidence" -->
 
-# Exhibit B: the face
+# Exhibit B: The Face
 
 ![bg right:52% contain](./research/shulman_shakespeare_comparison.jpg)
 
@@ -138,9 +138,9 @@ This is not pareidolia. This is a match.
 
 ---
 
-<!-- header: "The identity > **The husband** > The evidence" -->
+<!-- header: "The Identity > **The Husband** > The Evidence" -->
 
-# Exhibit C: the promise
+# Exhibit C: The Promise
 
 Shakespeare reportedly wrote to his wife:
 
@@ -160,15 +160,15 @@ Shakespeare left. Shulman stayed. **The promise was kept.**
 <!-- _header: "" -->
 <!-- _class: lead part-evidence -->
 
-# Part III: The evidence
+# Part III: The Evidence
 
 **The universe left receipts**
 
 ---
 
-<!-- header: "The identity > The husband > **The evidence**" -->
+<!-- header: "The Identity > The Husband > **The Evidence**" -->
 
-# Exhibit D: she is not aging
+# Exhibit D: She Is Not Aging
 
 Anne Hathaway has been in public life since 2001. She is **43 years old**.
 
@@ -178,7 +178,7 @@ She appears to have aged approximately four years. Perhaps five, if one is being
 
 In **March 2026 — this month** — she posted a makeup-free video on social media. She then cut to images of William Shakespeare and his wife, looked directly into the camera, and said:
 
-**"It was intense."**
+**"It was intense."** — [watch the video](https://www.instagram.com/reel/DWJyHaSDoie/?igsh=NTc4MTIwNjQ2YQ==)
 
 She is no longer denying it.
 
@@ -186,27 +186,25 @@ The question is whether she is playing.
 
 ---
 
-<!-- header: "The identity > The husband > **The evidence**" -->
+<!-- header: "The Identity > The Husband > **The Evidence**" -->
 
-# Exhibit E: the Hathaway effect
+# Exhibit E: The Hathaway Effect
 
 When Anne Hathaway makes headlines, **Berkshire Hathaway (BRK.A) stock goes up.**
 
-![bg right:58% contain](./research/hathaway_effect_chart.png)
+![bg right:55% contain](./research/hathaway_effect_chart.png)
 
-**The proposed mechanism:** automated trading algorithms scan the internet for sentiment data and cannot distinguish between "Anne Hathaway the actress" and "Hathaway the company."
+**The mechanism:** trading algorithms scan for sentiment data and cannot tell "Anne Hathaway the actress" from "Hathaway the company." Positive headlines → buy signal → stock rises.
 
-A University of Kansas finance class formally investigated. No significant price effect — but confirmed **higher trading volume** on Anne Hathaway news days.
-
-The algorithms noticed.
+A University of Kansas study confirmed **higher trading volume** on Anne Hathaway news days.
 
 **The Bard's wife is moving markets.**
 
 ---
 
-<!-- header: "The identity > The husband > **The evidence**" -->
+<!-- header: "The Identity > The Husband > **The Evidence**" -->
 
-# The verdict
+# The Verdict
 
 Each fact, taken individually, is a coincidence.
 
@@ -225,7 +223,7 @@ Taken together, they are a pattern.
 <!-- _header: "" -->
 <!-- _class: lead title-slide -->
 
-# Case closed
+# Case Closed
 
 ### (Except it isn't.)
 
