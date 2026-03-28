@@ -13,14 +13,14 @@ Conspiracy-style presentation about Shakespeare's marriage to Anne Hathaway, bui
 ## Regenerating the HTML
 
 ```bash
-npx @marp-team/marp-cli hathaway_dossier.md --html -o hathaway_dossier.html
+npx @marp-team/marp-cli hathaway_dossier.md --html -o index.html
 ```
 
-The HTML file at the repo root is what GitHub Pages serves as `index.html` — keep it up to date when the deck changes.
+The `index.html` at the repo root is what GitHub Pages serves — keep it up to date when the deck changes.
 
 ## Hosting
 
-GitHub Pages serves from the `main` branch root. The entry point is `hathaway_dossier.html`.
+GitHub Pages serves from the `main` branch root. The entry point is `index.html`.
 To update the live site: edit the `.md`, regenerate the `.html`, commit, and push.
 
 ## Skills

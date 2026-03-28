@@ -9,7 +9,7 @@ desktop.ini
 # Claude local settings (keep CLAUDE.md, ignore personal overrides)
 .claude/settings.local.json
 
-# Marp / build outputs (keep hathaway_dossier.html since it's the hosted artifact)
+# Marp / build outputs (keep index.html since it's the hosted artifact)
 *.pptx
 
 # Temp / editor
