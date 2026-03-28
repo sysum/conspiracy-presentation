@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "create-marp-deck": {
+      "source": "Omerr/claude-skills",
+      "sourceType": "github",
+      "computedHash": "50cb285e4ba2cbe8bbe2c2a2983f98fc7a029a7f0a5e5bc7eb141cbb6ca30136"
+    }
+  }
+}
