@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude local settings (keep CLAUDE.md, ignore personal overrides)
+.claude/settings.local.json
+
+# Marp / build outputs (keep hathaway_dossier.html since it's the hosted artifact)
+*.pptx
+
+# Temp / editor
+*.tmp
+*.bak
+.vscode/
