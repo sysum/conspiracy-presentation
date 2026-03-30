@@ -4,7 +4,7 @@ A conspiracy-style Marp presentation examining the historical evidence around Sh
 
 ## Presentation
 
-- **[View the presentation](index.html)** — hosted via GitHub Pages
+- **[View the presentation](https://sysum.github.io/conspiracy-presentation)** — hosted via GitHub Pages
 - **[Source deck](hathaway_dossier.md)** — Marp markdown
 
 ## Research
