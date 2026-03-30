@@ -16,3 +16,6 @@ desktop.ini
 *.tmp
 *.bak
 .vscode/
+
+.claude
+.claude/*
